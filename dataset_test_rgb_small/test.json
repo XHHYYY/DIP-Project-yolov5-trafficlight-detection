@@ -1,0 +1,2462 @@
+[
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35492.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31128.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40528.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 560.75,
+                "x_min": 556.75,
+                "y_max": 334.625,
+                "y_min": 319.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 908.625,
+                "x_min": 903.125,
+                "y_max": 329.875,
+                "y_min": 315.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27378.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 474.75,
+                "x_min": 468.5,
+                "y_max": 318.125,
+                "y_min": 300.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 89.75,
+                "x_min": 82.125,
+                "y_max": 330.875,
+                "y_min": 311.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31534.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 416.75,
+                "x_min": 393.875,
+                "y_max": 216.375,
+                "y_min": 147.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40402.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 293.0,
+                "x_min": 262.5,
+                "y_max": 105.0,
+                "y_min": 0.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40434.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24520.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30206.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 957.625,
+                "x_min": 948.375,
+                "y_max": 286.25,
+                "y_min": 253.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 164.0,
+                "x_min": 155.625,
+                "y_max": 292.75,
+                "y_min": 260.875
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26388.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 652.625,
+                "x_min": 648.75,
+                "y_max": 336.125,
+                "y_min": 322.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34084.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32048.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24208.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 417.5,
+                "x_min": 410.25,
+                "y_max": 337.0,
+                "y_min": 321.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27704.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31026.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36786.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25126.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33508.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33944.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40558.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31228.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Yellow",
+                "occluded": false,
+                "x_max": 367.125,
+                "x_min": 357.25,
+                "y_max": 318.0,
+                "y_min": 295.125
+            },
+            {
+                "label": "Yellow",
+                "occluded": false,
+                "x_max": 884.75,
+                "x_min": 876.875,
+                "y_max": 309.25,
+                "y_min": 288.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37024.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29840.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40594.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 321.125,
+                "x_min": 312.75,
+                "y_max": 300.875,
+                "y_min": 275.125
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 918.125,
+                "x_min": 909.875,
+                "y_max": 299.625,
+                "y_min": 275.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29626.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 403.25,
+                "x_min": 395.75,
+                "y_max": 325.875,
+                "y_min": 312.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27736.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32454.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 228.875,
+                "x_min": 219.375,
+                "y_max": 316.375,
+                "y_min": 290.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36458.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26748.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 870.875,
+                "x_min": 864.625,
+                "y_max": 334.25,
+                "y_min": 319.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30340.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "off",
+                "occluded": true,
+                "x_max": 348.75,
+                "x_min": 343.25,
+                "y_max": 338.875,
+                "y_min": 325.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26794.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 314.5,
+                "x_min": 304.625,
+                "y_max": 305.75,
+                "y_min": 280.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 888.375,
+                "x_min": 879.125,
+                "y_max": 302.875,
+                "y_min": 278.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35198.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24144.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 884.875,
+                "x_min": 876.625,
+                "y_max": 312.25,
+                "y_min": 289.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 411.875,
+                "x_min": 403.0,
+                "y_max": 320.5,
+                "y_min": 297.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31678.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24102.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33560.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 886.125,
+                "x_min": 880.625,
+                "y_max": 332.0,
+                "y_min": 320.0
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32560.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 887.75,
+                "x_min": 881.75,
+                "y_max": 312.75,
+                "y_min": 292.875
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 401.125,
+                "x_min": 394.625,
+                "y_max": 316.5,
+                "y_min": 295.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25482.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25098.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32096.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36732.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 294.875,
+                "x_min": 286.875,
+                "y_max": 319.125,
+                "y_min": 298.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34294.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32432.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 242.0,
+                "x_min": 233.125,
+                "y_max": 316.75,
+                "y_min": 290.375
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 809.5,
+                "x_min": 800.625,
+                "y_max": 291.5,
+                "y_min": 268.0
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27994.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 998.625,
+                "x_min": 983.625,
+                "y_max": 242.0,
+                "y_min": 201.875
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 19.375,
+                "x_min": 5.75,
+                "y_max": 267.75,
+                "y_min": 228.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/28696.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1271.875,
+                "x_min": 1252.75,
+                "y_max": 165.5,
+                "y_min": 91.25
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 457.375,
+                "x_min": 439.25,
+                "y_max": 236.375,
+                "y_min": 183.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40376.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 732.625,
+                "x_min": 725.75,
+                "y_max": 314.5,
+                "y_min": 299.25
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 372.0,
+                "x_min": 366.0,
+                "y_max": 337.25,
+                "y_min": 323.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34194.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31110.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 851.5,
+                "x_min": 838.75,
+                "y_max": 271.5,
+                "y_min": 240.25
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 111.875,
+                "x_min": 99.25,
+                "y_max": 326.375,
+                "y_min": 290.125
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 494.875,
+                "x_min": 490.125,
+                "y_max": 360.625,
+                "y_min": 347.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29190.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26728.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32120.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32206.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "off",
+                "occluded": false,
+                "x_max": 440.5,
+                "x_min": 436.0,
+                "y_max": 433.25,
+                "y_min": 418.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24580.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33442.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24480.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32138.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 181.75,
+                "x_min": 168.75,
+                "y_max": 310.5,
+                "y_min": 279.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 899.0,
+                "x_min": 887.75,
+                "y_max": 273.75,
+                "y_min": 242.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36512.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40560.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31076.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30010.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 869.75,
+                "x_min": 858.75,
+                "y_max": 304.5,
+                "y_min": 278.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 154.625,
+                "x_min": 145.0,
+                "y_max": 304.625,
+                "y_min": 276.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30622.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 57.5,
+                "x_min": 44.875,
+                "y_max": 260.875,
+                "y_min": 222.0
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.625,
+                "x_min": 967.0,
+                "y_max": 240.75,
+                "y_min": 201.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37796.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24136.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1087.625,
+                "x_min": 1068.375,
+                "y_max": 245.375,
+                "y_min": 193.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/28740.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38196.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 892.5,
+                "x_min": 884.625,
+                "y_max": 319.75,
+                "y_min": 301.125
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 402.125,
+                "x_min": 393.375,
+                "y_max": 324.625,
+                "y_min": 303.0
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/28452.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 324.875,
+                "x_min": 317.75,
+                "y_max": 311.625,
+                "y_min": 288.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 876.625,
+                "x_min": 868.0,
+                "y_max": 304.25,
+                "y_min": 281.875
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 519.5,
+                "x_min": 512.25,
+                "y_max": 349.0,
+                "y_min": 332.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27524.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32078.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32310.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 780.875,
+                "x_min": 777.25,
+                "y_max": 346.125,
+                "y_min": 337.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30226.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29886.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 447.75,
+                "y_max": 348.875,
+                "y_min": 337.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33254.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1097.375,
+                "x_min": 1079.5,
+                "y_max": 227.125,
+                "y_min": 179.375
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 744.5,
+                "x_min": 740.75,
+                "y_max": 334.625,
+                "y_min": 323.875
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25004.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29992.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25082.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 484.875,
+                "x_min": 479.25,
+                "y_max": 319.5,
+                "y_min": 301.5
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 101.375,
+                "x_min": 95.125,
+                "y_max": 330.875,
+                "y_min": 311.875
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31542.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31008.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33864.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33380.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 982.125,
+                "x_min": 970.25,
+                "y_max": 267.75,
+                "y_min": 233.125
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 116.875,
+                "x_min": 105.5,
+                "y_max": 283.25,
+                "y_min": 246.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39264.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 57.5,
+                "x_min": 44.875,
+                "y_max": 260.875,
+                "y_min": 222.0
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.625,
+                "x_min": 967.0,
+                "y_max": 240.75,
+                "y_min": 201.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37612.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 669.0,
+                "x_min": 663.75,
+                "y_max": 303.125,
+                "y_min": 290.625
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 360.375,
+                "x_min": 355.75,
+                "y_max": 322.875,
+                "y_min": 311.875
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34136.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26798.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 118.0,
+                "x_min": 106.375,
+                "y_max": 265.75,
+                "y_min": 231.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 996.75,
+                "x_min": 984.0,
+                "y_max": 265.0,
+                "y_min": 227.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35376.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30944.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24430.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30978.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 785.375,
+                "x_min": 780.75,
+                "y_max": 351.375,
+                "y_min": 340.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30230.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 920.75,
+                "x_min": 913.75,
+                "y_max": 305.125,
+                "y_min": 283.875
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 370.5,
+                "x_min": 362.125,
+                "y_max": 309.625,
+                "y_min": 286.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25890.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 981.875,
+                "x_min": 969.625,
+                "y_max": 268.125,
+                "y_min": 232.375
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 116.125,
+                "x_min": 105.625,
+                "y_max": 281.875,
+                "y_min": 245.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39028.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24188.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24104.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31252.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25060.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 59.875,
+                "x_min": 45.75,
+                "y_max": 259.75,
+                "y_min": 222.375
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.625,
+                "x_min": 967.0,
+                "y_max": 240.75,
+                "y_min": 201.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37292.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36752.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1013.25,
+                "x_min": 1002.0,
+                "y_max": 253.0,
+                "y_min": 210.875
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 508.875,
+                "x_min": 495.875,
+                "y_max": 281.375,
+                "y_min": 244.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40306.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27774.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 212.875,
+                "x_min": 203.125,
+                "y_max": 314.875,
+                "y_min": 285.0
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 870.25,
+                "x_min": 861.875,
+                "y_max": 280.625,
+                "y_min": 255.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36480.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40588.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 265.875,
+                "x_min": 256.875,
+                "y_max": 319.125,
+                "y_min": 293.75
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 842.125,
+                "x_min": 831.5,
+                "y_max": 292.25,
+                "y_min": 265.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35930.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31176.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33638.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40666.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 57.5,
+                "x_min": 44.875,
+                "y_max": 260.875,
+                "y_min": 222.0
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.625,
+                "x_min": 967.0,
+                "y_max": 240.75,
+                "y_min": 201.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37400.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30866.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26730.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 251.5,
+                "x_min": 242.0,
+                "y_max": 290.75,
+                "y_min": 261.625
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 947.125,
+                "x_min": 937.875,
+                "y_max": 289.375,
+                "y_min": 260.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29680.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32534.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 413.625,
+                "x_min": 408.875,
+                "y_max": 361.5,
+                "y_min": 349.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 706.375,
+                "x_min": 700.625,
+                "y_max": 359.0,
+                "y_min": 346.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38104.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24402.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 864.5,
+                "x_min": 858.0,
+                "y_max": 314.625,
+                "y_min": 296.25
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 405.5,
+                "x_min": 397.375,
+                "y_max": 320.125,
+                "y_min": 299.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32784.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 752.125,
+                "x_min": 748.0,
+                "y_max": 335.875,
+                "y_min": 322.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27262.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40648.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.375,
+                "x_min": 969.375,
+                "y_max": 268.125,
+                "y_min": 232.25
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 115.875,
+                "x_min": 105.875,
+                "y_max": 280.75,
+                "y_min": 246.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38996.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 695.5,
+                "x_min": 691.625,
+                "y_max": 345.125,
+                "y_min": 333.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 448.0,
+                "y_max": 350.0,
+                "y_min": 338.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33752.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1101.0,
+                "x_min": 1081.25,
+                "y_max": 214.875,
+                "y_min": 161.75
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 547.5,
+                "x_min": 539.75,
+                "y_max": 352.25,
+                "y_min": 337.75
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 407.125,
+                "x_min": 402.125,
+                "y_max": 361.375,
+                "y_min": 348.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39416.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40574.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 136.25,
+                "x_min": 123.75,
+                "y_max": 270.875,
+                "y_min": 236.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 991.125,
+                "x_min": 977.0,
+                "y_max": 271.125,
+                "y_min": 233.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35370.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 257.625,
+                "x_min": 248.75,
+                "y_max": 316.0,
+                "y_min": 289.875
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 845.5,
+                "x_min": 836.625,
+                "y_max": 286.375,
+                "y_min": 261.0
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36330.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 57.5,
+                "x_min": 44.875,
+                "y_max": 260.875,
+                "y_min": 222.0
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.625,
+                "x_min": 967.0,
+                "y_max": 240.75,
+                "y_min": 201.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37722.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 442.875,
+                "x_min": 437.625,
+                "y_max": 318.125,
+                "y_min": 300.875
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 56.875,
+                "x_min": 49.25,
+                "y_max": 330.125,
+                "y_min": 310.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31524.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 1161.375,
+                "x_min": 1143.75,
+                "y_max": 245.875,
+                "y_min": 192.875
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 452.5,
+                "x_min": 447.75,
+                "y_max": 348.875,
+                "y_min": 337.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/33162.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25102.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30894.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24246.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 982.125,
+                "x_min": 969.375,
+                "y_max": 267.875,
+                "y_min": 232.5
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 116.625,
+                "x_min": 106.0,
+                "y_max": 282.75,
+                "y_min": 245.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39066.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40564.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32264.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 918.125,
+                "x_min": 911.125,
+                "y_max": 305.0,
+                "y_min": 282.875
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 372.375,
+                "x_min": 364.875,
+                "y_max": 309.375,
+                "y_min": 285.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25880.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40710.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25056.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32330.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40730.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 924.375,
+                "x_min": 917.625,
+                "y_max": 313.5,
+                "y_min": 294.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 508.5,
+                "x_min": 500.5,
+                "y_max": 323.625,
+                "y_min": 303.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31634.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24220.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 307.5,
+                "x_min": 301.0,
+                "y_max": 332.125,
+                "y_min": 311.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27904.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35576.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 313.75,
+                "x_min": 305.0,
+                "y_max": 304.125,
+                "y_min": 279.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 888.0,
+                "x_min": 878.5,
+                "y_max": 302.25,
+                "y_min": 277.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35142.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24328.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 867.5,
+                "x_min": 861.375,
+                "y_max": 320.625,
+                "y_min": 302.375
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 397.5,
+                "x_min": 389.5,
+                "y_max": 327.5,
+                "y_min": 306.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32794.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40694.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40640.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 937.625,
+                "x_min": 929.125,
+                "y_max": 301.125,
+                "y_min": 276.875
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 300.75,
+                "x_min": 293.5,
+                "y_max": 307.125,
+                "y_min": 281.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26110.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38204.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 981.75,
+                "x_min": 970.0,
+                "y_max": 267.375,
+                "y_min": 231.5
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 117.25,
+                "x_min": 106.5,
+                "y_max": 282.875,
+                "y_min": 245.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39198.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24218.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30878.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40722.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27764.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32064.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40596.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 814.25,
+                "x_min": 808.375,
+                "y_max": 327.5,
+                "y_min": 311.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30504.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31242.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32126.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 264.0,
+                "x_min": 255.25,
+                "y_max": 310.0,
+                "y_min": 285.75
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 842.375,
+                "x_min": 833.25,
+                "y_max": 283.125,
+                "y_min": 257.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/35938.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 981.875,
+                "x_min": 969.625,
+                "y_max": 268.125,
+                "y_min": 232.125
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 116.25,
+                "x_min": 105.625,
+                "y_max": 281.25,
+                "y_min": 245.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38980.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36792.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31248.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 554.75,
+                "x_min": 550.375,
+                "y_max": 334.375,
+                "y_min": 319.5
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 904.375,
+                "x_min": 898.625,
+                "y_max": 330.25,
+                "y_min": 315.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/27380.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25186.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40476.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24454.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1032.125,
+                "x_min": 1017.75,
+                "y_max": 251.375,
+                "y_min": 209.625
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 6.125,
+                "x_min": 0.25,
+                "y_max": 284.625,
+                "y_min": 240.0
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 571.5,
+                "x_min": 565.375,
+                "y_max": 345.625,
+                "y_min": 332.375
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 439.0,
+                "x_min": 434.625,
+                "y_max": 353.25,
+                "y_min": 339.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39370.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 69.75,
+                "x_min": 56.0,
+                "y_max": 261.125,
+                "y_min": 222.375
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 976.375,
+                "x_min": 963.625,
+                "y_max": 241.375,
+                "y_min": 203.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37248.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 213.75,
+                "x_min": 202.875,
+                "y_max": 298.75,
+                "y_min": 269.25
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 930.875,
+                "x_min": 921.375,
+                "y_max": 287.25,
+                "y_min": 257.875
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38756.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31330.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 143.625,
+                "x_min": 137.0,
+                "y_max": 309.625,
+                "y_min": 290.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31428.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36766.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1024.875,
+                "x_min": 1009.625,
+                "y_max": 222.25,
+                "y_min": 175.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26542.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1043.5,
+                "x_min": 1025.75,
+                "y_max": 225.625,
+                "y_min": 175.625
+            },
+            {
+                "label": "off",
+                "occluded": false,
+                "x_max": 364.5,
+                "x_min": 361.0,
+                "y_max": 362.875,
+                "y_min": 352.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26564.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 848.125,
+                "x_min": 838.25,
+                "y_max": 312.25,
+                "y_min": 291.625
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 227.0,
+                "x_min": 219.125,
+                "y_max": 312.5,
+                "y_min": 288.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30592.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 940.75,
+                "x_min": 930.75,
+                "y_max": 296.875,
+                "y_min": 271.25
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 288.375,
+                "x_min": 281.875,
+                "y_max": 302.125,
+                "y_min": 276.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26150.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 446.5,
+                "x_min": 440.75,
+                "y_max": 329.25,
+                "y_min": 314.5
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 843.875,
+                "x_min": 836.5,
+                "y_max": 328.625,
+                "y_min": 310.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34646.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24304.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 982.875,
+                "x_min": 972.75,
+                "y_max": 267.25,
+                "y_min": 232.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 113.75,
+                "x_min": 102.125,
+                "y_max": 283.75,
+                "y_min": 246.25
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/39284.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 818.125,
+                "x_min": 810.625,
+                "y_max": 318.875,
+                "y_min": 304.125
+            },
+            {
+                "label": "Green",
+                "occluded": true,
+                "x_max": 349.875,
+                "x_min": 344.375,
+                "y_max": 321.5,
+                "y_min": 303.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/30516.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 817.875,
+                "x_min": 811.25,
+                "y_max": 337.375,
+                "y_min": 315.75
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 300.0,
+                "x_min": 293.75,
+                "y_max": 346.5,
+                "y_min": 324.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24804.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32336.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32400.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 313.75,
+                "x_min": 305.0,
+                "y_max": 304.125,
+                "y_min": 279.75
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 888.75,
+                "x_min": 878.75,
+                "y_max": 301.125,
+                "y_min": 276.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34932.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 481.875,
+                "x_min": 475.25,
+                "y_max": 319.125,
+                "y_min": 301.125
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 97.375,
+                "x_min": 90.125,
+                "y_max": 330.25,
+                "y_min": 311.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/31538.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/25142.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 57.5,
+                "x_min": 44.875,
+                "y_max": 260.875,
+                "y_min": 222.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 982.625,
+                "x_min": 967.0,
+                "y_max": 240.75,
+                "y_min": 201.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37874.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26726.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32386.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 495.875,
+                "x_min": 491.5,
+                "y_max": 348.25,
+                "y_min": 338.5
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 695.125,
+                "x_min": 689.75,
+                "y_max": 314.25,
+                "y_min": 300.375
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 373.875,
+                "x_min": 367.125,
+                "y_max": 337.5,
+                "y_min": 319.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/28874.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 464.375,
+                "x_min": 457.75,
+                "y_max": 330.0,
+                "y_min": 314.25
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 848.75,
+                "x_min": 842.25,
+                "y_max": 328.625,
+                "y_min": 311.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/34632.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32526.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 1206.75,
+                "x_min": 1184.25,
+                "y_max": 198.125,
+                "y_min": 135.5
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 408.125,
+                "x_min": 403.5,
+                "y_max": 357.25,
+                "y_min": 345.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 678.625,
+                "x_min": 674.625,
+                "y_max": 346.625,
+                "y_min": 336.125
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/38052.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40700.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 151.625,
+                "x_min": 142.875,
+                "y_max": 304.625,
+                "y_min": 277.0
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 834.625,
+                "x_min": 825.375,
+                "y_max": 284.875,
+                "y_min": 256.75
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26948.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/26704.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 259.75,
+                "x_min": 251.125,
+                "y_max": 314.875,
+                "y_min": 289.75
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 842.875,
+                "x_min": 834.625,
+                "y_max": 286.125,
+                "y_min": 260.375
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/36038.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 844.875,
+                "x_min": 833.0,
+                "y_max": 274.0,
+                "y_min": 244.625
+            },
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 128.25,
+                "x_min": 117.5,
+                "y_max": 324.5,
+                "y_min": 290.625
+            },
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 496.125,
+                "x_min": 491.5,
+                "y_max": 357.375,
+                "y_min": 344.5
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29172.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/40618.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Green",
+                "occluded": false,
+                "x_max": 966.0,
+                "x_min": 945.5,
+                "y_max": 222.875,
+                "y_min": 177.875
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/29282.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/32214.png"
+    },
+    {
+        "boxes": [],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/24160.png"
+    },
+    {
+        "boxes": [
+            {
+                "label": "Red",
+                "occluded": true,
+                "x_max": 108.375,
+                "x_min": 92.625,
+                "y_max": 275.0,
+                "y_min": 236.25
+            },
+            {
+                "label": "Red",
+                "occluded": false,
+                "x_max": 961.75,
+                "x_min": 949.375,
+                "y_max": 258.75,
+                "y_min": 222.625
+            }
+        ],
+        "path": "/net/pal-soc1.us.bosch.com/ifs/data/Shared_Exports/deep_learning_data/traffic_lights/university_run1/37182.png"
+    }
+]
