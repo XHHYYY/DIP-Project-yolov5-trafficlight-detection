@@ -1,4 +1,5 @@
 import cv2
+import glob
 import numpy as np
 
 def white_balance(img_path, mode=1):
@@ -114,5 +115,7 @@ def white_balance(img_path, mode=1):
     return output_img
 
 if __name__ == '__main__':
-    processed = white_balance('./dataset_test_rgb_small/rgb/test/137.png', mode= 4)
-    cv2.imwrite('./dataset_test_rgb_small/rgb/white_test.png', processed)
+    img_path = glob.glob('./dataset_test_rgb_small/image_sets/original/images/*')
+    for path in img_path:
+        new_path = path.replace('/original/', '/white_balanced/')
+        cv2.imwrite(new_path, white_balance(path, 4))

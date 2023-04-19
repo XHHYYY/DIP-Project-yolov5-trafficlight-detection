@@ -97,8 +97,8 @@ def process_batch(detections, labels, iouv):
 
 @smart_inference_mode()
 def run(
-        data,
-        weights=None,  # model.pt path(s)
+        data='project.yaml',
+        weights='yolov5s.pt',  # model.pt path(s)
         batch_size=8,  # batch size
         imgsz=640,  # inference size (pixels)
         conf_thres=0.001,  # confidence threshold
@@ -107,7 +107,7 @@ def run(
         task='val',  # train, val, test, speed or study
         device='1',  # cuda device, i.e. 0 or 0,1,2,3 or cpu
         workers=8,  # max dataloader workers (per RANK in DDP mode)
-        single_cls=False,  # treat as single-class dataset
+        single_cls=True,  # treat as single-class dataset
         augment=False,  # augmented inference
         verbose=True,  # verbose output
         save_txt=False,  # save results to *.txt
