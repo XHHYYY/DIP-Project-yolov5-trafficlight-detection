@@ -1,7 +1,7 @@
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 path: ../dataset_test_rgb_small/  # dataset root dir
 train:   # train images (relative to 'path') 128 images
-val: image_sets/x_cropped  # val images (relative to 'path') 128 images
+val: image_sets/enhanced  # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes (80 COCO classes)
@@ -86,3 +86,28 @@ names:
   77: teddy bear
   78: hair drier
   79: toothbrush
+
+Project
+├─ dataset_test_rgb_small
+│  ├─ Color_Enhancement.py			  图像增强
+│  ├─ CreateLabels&CropImages.py	生成标签及图像剪裁
+│  ├─ json2mat.py					        将test.json中的内容导出至Project/matlab_process/positions.mat
+│  ├─ White_balance.py            对图像做白平衡
+│  ├─ rgb
+│  └─ image_sets
+│  	  ├─ cropped_enhanced
+│  	  ├─ enhanced
+│  	  ├─ original
+│  	  ├─ white_balanced
+│  	  ├─ xy_cropped
+│  	  └─x_cropped
+├─ matlab_process
+│ 	├─ analyze.m                  标签位置分析
+│ 	└─ positions.mat              test.json内容导出结果
+├─ report
+├─ results
+│  	└─ test_log.md                测试日志
+├─ test
+└─ yolov5-master
+	└─ data
+		└─ project.yaml

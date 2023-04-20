@@ -40,3 +40,7 @@
 9.  原始图像x_crop,  imgsz=1920：
     Class     Images  Instances          P          R      mAP50   mAP50-95
       all        175        195      0.424      0.554      0.428      0.198
+
+10. 原始图像，imgsz = 1920
+    Class     Images  Instances          P          R      mAP50   mAP50-95
+      all        200        195      0.414      0.467      0.339      0.131

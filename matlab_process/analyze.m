@@ -26,4 +26,4 @@ span    = 150;
 center  = 320;
 y = [y_max, y_min];
 k = find(y < (center-span) | y >= (center + span));
-size(k, 2) / size(y, 2)
+1 - size(k, 2) / size(y, 2)

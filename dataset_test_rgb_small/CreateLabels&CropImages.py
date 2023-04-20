@@ -1,6 +1,5 @@
 import json
 import cv2
-import os
 
 def ComputeParam(
     x_max, x_min, y_max, y_min, w, h,
@@ -19,8 +18,8 @@ def ComputeParam(
 
 def CreateLabelsAndCropImages(
     jsonPath = './dataset_test_rgb_small/test.json',
-    label_dest = './dataset_test_rgb_small/image_sets/cropped/labels/',
-    img_dest = './dataset_test_rgb_small/image_sets/cropped/images/',
+    label_dest = './dataset_test_rgb_small/image_sets/x_cropped/labels/',
+    img_dest = './dataset_test_rgb_small/image_sets/x_cropped/images/',
     img_src = './dataset_test_rgb_small/image_sets/original/images/',
     w = 1280,
     h = 720,
